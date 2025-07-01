@@ -1,3 +1,4 @@
+![Foto del scraper](banner.png)
 notiScraper-Pro
 
 notiScraper-Pro es una herramienta de scraping modular desarrollada en Python. Su objetivo es extraer de forma automática los títulos y los primeros párrafos de una lista de páginas web, validando previamente la accesibilidad de las URLs, y almacenando los resultados en un archivo CSV estructurado. El proyecto está diseñado para ser educativo, escalable y adaptable a distintos entornos de scraping básico.
